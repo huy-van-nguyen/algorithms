@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbb2e5ae-4a9a-4168-8091-9ea8bad2bb87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/026_three_number_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/027_smallest_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/028_move_element_to_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/029_monotonic_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/030_spiral_traverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/031_longest_peak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/032_array_of_products.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/033_first_duplicate_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/034_merge_overlapping_intervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/035_bst_construction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/045_max_subset_sum_no_adjacent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/046_number_of_ways_to_make_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/002_validate_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/003_sorted_squared_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/004_tournament_winner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/005_non_constructible_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/006_find_closest_value_in_bst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/007_branch_sums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/008_node_depths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/009_depth_first_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/010_minimum_waiting_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/011_class_photos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/012_tandem_bicycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/013_remove_duplicates_from_linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/014_nth_fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/015_product_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/016_binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/017_find_three_largest_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/018_bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/019_insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/020_selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/021_palindrome_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/022_caesar_cipher_encryptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/023_run_length_encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/024_generate_document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoexpert/easy/025_first_non_repeating_character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/blue/02_algorithmic_complexity/array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_03/01_deque/deque_stl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_03/01_deque/hinh_chu_nhat_0_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_03/01_deque/queries_with_fixed_ength.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_03/01_deque/shortest_subarray_with_sum_at_least_k.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/01_matrix/matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance/AGTC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance/changing_a_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance/dp_edit_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance/edit_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance/string_computer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance/string_to_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigo/cp_04/14_dinic/dinic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/Good_Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/Make_A_Equal_to_B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/Playing_with_GCD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/concatenated_multiples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codeforces/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcs_dp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lcs_suffix_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/techiedelight/find_pair_with_given_sum_array.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Cxghx0SehQ1nnhlNIq79NN22C1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/huyvannguyen/Desktop/study/backend/python/projects/algorithms&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/algoexpert/easy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dinic">
+    <configuration name="Make_A_Equal_to_B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ codeforces" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ codeforces/Make_A_Equal_to_B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Playing_with_GCD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ codeforces" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ codeforces/Playing_with_GCD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dinic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bigo/cp_04/14_dinic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bigo/cp_04/14_dinic/dinic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_pair_with_given_sum_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/techiedelight" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/techiedelight/find_pair_with_given_sum_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in 045_max_subset_sum_no_adjacent.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="algorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algoexpert" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/algoexpert/045_max_subset_sum_no_adjacent.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dinic" />
+        <item itemvalue="Python.find_pair_with_given_sum_array" />
+        <item itemvalue="Python tests.Python tests in 045_max_subset_sum_no_adjacent.py" />
+        <item itemvalue="Python.Playing_with_GCD" />
+        <item itemvalue="Python.Make_A_Equal_to_B" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbb2e5ae-4a9a-4168-8091-9ea8bad2bb87" name="Changes" comment="" />
+      <created>1659749773472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659749773472</updated>
+      <workItem from="1659749776405" duration="98000" />
+      <workItem from="1659750004321" duration="164000" />
+      <workItem from="1659750192708" duration="27439000" />
+      <workItem from="1663463387709" duration="6276000" />
+      <workItem from="1663499610344" duration="634000" />
+      <workItem from="1663501086294" duration="63485000" />
+      <workItem from="1663757087115" duration="40788000" />
+      <workItem from="1664154112668" duration="2511000" />
+      <workItem from="1664241542696" duration="9479000" />
+      <workItem from="1665128627387" duration="36440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/algorithms" />
+    </ignored-roots>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithms$AGTC.coverage" NAME="AGTC Coverage Results" MODIFIED="1663818900664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance" />
+    <SUITE FILE_PATH="coverage/algorithms$dinic.coverage" NAME="dinic Coverage Results" MODIFIED="1666252999721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_04/14_dinic" />
+    <SUITE FILE_PATH="coverage/algorithms$hinh_chu_nhat_0_1.coverage" NAME="hinh_chu_nhat_0_1 Coverage Results" MODIFIED="1660268391851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_03/lecture_01_deque" />
+    <SUITE FILE_PATH="coverage/algorithms$queries_with_fixed_ength.coverage" NAME="queries_with_fixed_ength Coverage Results" MODIFIED="1660236361403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_03/lecture_01_deque" />
+    <SUITE FILE_PATH="coverage/algorithms$a.coverage" NAME="a Coverage Results" MODIFIED="1659847106562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithms$edit_distance.coverage" NAME="edit_distance Coverage Results" MODIFIED="1663817183518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance" />
+    <SUITE FILE_PATH="coverage/algorithms$test.coverage" NAME="test Coverage Results" MODIFIED="1659844005642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithms$deque_stl.coverage" NAME="deque_stl Coverage Results" MODIFIED="1660234734288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_03/lecture_01_deque" />
+    <SUITE FILE_PATH="coverage/algorithms$006_find_closest_value_in_bst.coverage" NAME="006_find_closest_value_in_bst Coverage Results" MODIFIED="1663552802616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algoexpert" />
+    <SUITE FILE_PATH="coverage/algorithms$Make_A_Equal_to_B.coverage" NAME="Make_A_Equal_to_B Coverage Results" MODIFIED="1665414409954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ codeforces" />
+    <SUITE FILE_PATH="coverage/algorithms$concatenated_multiples.coverage" NAME="concatenated_multiples Coverage Results" MODIFIED="1665138001824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ codeforces" />
+    <SUITE FILE_PATH="coverage/algorithms$.coverage" NAME=" Coverage Results" MODIFIED="1665454094261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algoexpert" />
+    <SUITE FILE_PATH="coverage/algorithms$Playing_with_GCD.coverage" NAME="Playing_with_GCD Coverage Results" MODIFIED="1665418917084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ codeforces" />
+    <SUITE FILE_PATH="coverage/algorithms$string_to_palindrome.coverage" NAME="string_to_palindrome Coverage Results" MODIFIED="1663819558772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance" />
+    <SUITE FILE_PATH="coverage/algorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1659845133043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithms$string_computer.coverage" NAME="string_computer Coverage Results" MODIFIED="1663827829402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance" />
+    <SUITE FILE_PATH="coverage/algorithms$find_pair_with_given_sum_array.coverage" NAME="find_pair_with_given_sum_array Coverage Results" MODIFIED="1666174250577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/techiedelight" />
+    <SUITE FILE_PATH="coverage/algorithms$changing_a_string.coverage" NAME="changing_a_string Coverage Results" MODIFIED="1663826717762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigo/cp_04/06_dp_edit_distance" />
+  </component>
+</project>
