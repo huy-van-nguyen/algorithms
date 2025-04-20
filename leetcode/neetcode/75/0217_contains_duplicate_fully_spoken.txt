@@ -1,0 +1,58 @@
+🎤 Contains Duplicate – Interview Style (Python Version)
+
+Alright, let me walk you through my solution for the Contains Duplicate problem from LeetCode.
+
+Step 1 – Understand the Problem
+
+We're given an array of integers, and the goal is to determine if any number appears more than once.
+
+If there is at least one duplicate, we return True.
+If all elements are unique, we return False.
+
+Step 2 – Brute Force Idea
+
+The brute-force approach would be to compare every element with every other one.
+That would require two nested loops and take Big O of n squared time — which is not ideal for large arrays.
+
+Step 3 – Optimal Approach
+
+To improve this, I use a set to track what numbers we've seen so far.
+
+Here’s how it works:
+- Initialize an empty set called seen.
+- Loop through each number in the input list.
+- If the number is already in the seen set, we return True.
+- Otherwise, we add the number to the set and continue.
+- If we finish the loop without finding any duplicate, we return False.
+
+Since checking membership and adding to a set both take constant time on average,
+the total time complexity is Big O of n — linear time.
+
+Step 4 – Walkthrough with Example
+
+Let’s say the input is [1, 2, 3, 1]:
+
+- Start with an empty set
+- First number is 1 → not in the set → add it
+- Second is 2 → not in the set → add it
+- Third is 3 → not in the set → add it
+- Fourth is 1 → already in the set → return True
+
+Step 5 – Time and Space Complexity
+
+Time complexity: Big O of n  
+We go through the list once, and set operations are constant time.
+
+Space complexity: Big O of n  
+In the worst case, if all numbers are unique, we store n elements in the set.
+
+Step 6 – Edge Cases
+
+- If the input list is empty, we return False — because there are no elements, so no duplicates.
+- If the input list has only one element, we also return False.
+- If all elements are the same, we return True.
+
+Step 7 – Summary
+
+This solution is efficient, easy to implement, and works well in practice.
+Using a set gives us a clean Big O of n time solution.
